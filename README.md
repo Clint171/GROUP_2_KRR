@@ -2,7 +2,7 @@
 
 ### GROUP MEMBERS
 
-[Cynthia Njoki]()
+[Cynthia Njoki](https://github.com/Cynti84)
 
 [Mirowe Bob](https://github.com/Bobcodiz)
 
