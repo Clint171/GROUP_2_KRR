@@ -4,7 +4,7 @@
 
 [Cynthia Njoki]()
 
-[Mirowe Bob]()
+[Mirowe Bob](https://github.com/Bobcodiz)
 
 [Clint G.L. Simiyu](https://github.com/Clint171)
 
