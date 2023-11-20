@@ -2,9 +2,9 @@
 
 ### GROUP MEMBERS
 
-[Cynthia Njoki]()
+[Cynthia Njoki](https://github.com/Cynti84)
 
-[Mirowe Bob]()
+[Mirowe Bob](https://github.com/Bobcodiz)
 
 [Clint G.L. Simiyu](https://github.com/Clint171)
 
